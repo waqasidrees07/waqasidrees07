@@ -54,7 +54,7 @@ Built a platform to evaluate user security risks with advanced API systems.
 ## 📬 Let's Connect  
 
 - **Email**: waqasidree15@gmail.com  
-- **LinkedIn**: [](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/waqas-idrees/))  
-- **Portfolio**: [](https://wiansari.com)  
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/waqas-idrees/))  
+- **Portfolio**: [Portfolio](https://wiansari.com)  
 
 ---
