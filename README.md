@@ -30,10 +30,10 @@ The world can be an overwhelming place, so I help make people’s lives easier b
                     <div align="center" >  
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
 		      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="JS" width="75" height="75"/>
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="75" height="75" /> 
-                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="rails" width="75" height="75" />
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="rails" width="75" height="75" />
                       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
                       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
@@ -54,8 +54,8 @@ The world can be an overwhelming place, so I help make people’s lives easier b
 
 ## 💻 GitHub Profile Stats
 <div style="display: flex;">
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=waqasidree07&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Waqas Idrees github stats" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqas-idrees-tx&layout=compact&theme=radical" alt="Waqas Idrees github top used language" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=waqasidrees07&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Waqas Idrees github stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasidrees07&layout=compact&theme=radical" alt="Waqas Idrees github top used language" />
 	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waqasidrees07&theme=dark" alt="waqas-idrees-tx" /></p>
 </div>
 
